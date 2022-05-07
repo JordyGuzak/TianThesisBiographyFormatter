@@ -1,3 +1,3 @@
 # TianThesisBiographyFormatter
 
-Program written to format my girlfriend's thesis biography.
+A program to format the biography of my girlfriend's thesis.
